@@ -3,7 +3,6 @@
 
 # Build output
 /dist
-/vite.config.ts
 
 # IDE and editor files
 .vscode
